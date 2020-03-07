@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
-A. Responsive is usually fluid and adapts to screen size. Adaptive design uses static layouts with breakpoints that may not respond.
+A. Responsive is usually fluid and adapts to screen size. Adaptive design uses static layouts with breakpoints that may not respond. Use %'s rather than fixed pixels.
 
 2. Describe what it means to be mobile first vs desktop first.
 
