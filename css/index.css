@@ -1,3 +1,17 @@
+@keyframes signup {
+  from {
+    background-color: black;
+  }
+  to {
+    background-color: white;
+  }
+  from {
+    color: white;
+  }
+  to {
+    color: black;
+  }
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -303,8 +317,8 @@ footer {
   color: white;
 }
 .home .walk .walk-text a :hover {
-  color: black;
-  background-color: white;
+  animation-name: signup;
+  animation-duration: 4s;
 }
 @media (max-width: 500px) {
   .home .walk .walk-text {
