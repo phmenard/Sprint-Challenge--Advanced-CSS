@@ -42,11 +42,11 @@ A. Mobile first targets a mobile device first such as a cell phone and responds 
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
-A. 6.Its make for easier design. Math calculations relating font size easy.
+A. Its make for easier design. Math calculations relating font size easy.
 
 4. How would you describe preprocessing to someone new to CSS?
 
-A. 8.Preprocessing gives you a mechanism to add logic to your CSS and extend its default capabilities. 
+A. Preprocessing gives you a mechanism to add logic to your CSS and extend its default capabilities. 
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
 
