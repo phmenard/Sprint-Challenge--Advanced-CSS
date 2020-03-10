@@ -1,1 +1,49 @@
 // Navigation code here
+#header-container {
+    display: flex;
+    justify-content: center;
+    background-color: #f4f4f4;
+    padding: 0.5%;
+
+
+
+
+    #my-header {
+        width: 30%;
+
+        #header-info {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+
+            h2 {
+                margin-bottom: 2%;
+
+            }
+
+            nav {
+                display: flex;
+                justify-content: space-evenly;
+                width: 100%;
+
+
+                a {
+                    font-size: 1.7rem;
+                    text-decoration: none;
+                    color: black;
+
+
+
+
+                }
+            }
+        }
+
+        @media @phone {
+            width: 100%;
+
+
+        }
+    }
+}
